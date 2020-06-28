@@ -10,6 +10,11 @@
 1. Download a release of this script
 1. Run it using Magic2snes
 
+## Acknowledgments
+
+* [RetroAchievements](https://retroachievements.org/) for the RAM map documentation that save me tons of time
+* [The Spriters Ressource](https://www.spriters-resource.com/) for the spritesheets
+
 ## License
 
 Licensed under the MIT License
